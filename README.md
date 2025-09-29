@@ -22,7 +22,7 @@ I enjoy building cool projects, learning new technologies, and solving real-worl
 ---
 
 ## 📂 Featured Projects  
-🔹 The chic Empire Storehttps://github.com/your-username/your-repo  
+🔹 The chic Empire Store https://github.com/Anonymous-99-web/thechicempire
 🔹 My Portfolio https://github.com/your-username/your-repo 
 
 ---
